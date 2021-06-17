@@ -1,4 +1,3 @@
-# davidcandido.github.io
 <html>
   <head>
     <meta charset="utf-8">
